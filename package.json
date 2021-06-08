@@ -21,7 +21,7 @@
     "postinstall": "npm run build"
   },
   "engines": {
-    "node": "9.5.0",
+    "node": "14x",
     "npm": "6.4.1"
   }
 }
